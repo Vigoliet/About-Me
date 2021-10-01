@@ -19,7 +19,8 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-}
+  overflow: hidden;
+} 
 .about-left-content > div{
   background: #6185EB;
   padding: 4rem 4rem 2.5rem 5rem;
@@ -118,6 +119,7 @@ body {
   justify-content: center;
   padding: 0 5rem;
   text-align: center;
+  overflow: hidden;
 }
 .about-right h1{
   font-size: 7rem;
