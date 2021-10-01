@@ -154,11 +154,12 @@ body {
   border-color: #40589C;
   transition: all 0.5s ease-in-out;
 }
+/* Can be used later
 .btn.btn-blue:hover{
   background: transparent;
   border-color: #40589C;
   color: #000;
-}
+} */
 .btn.btn-white{
   transition: all 0.5s ease-in-out;
 }
